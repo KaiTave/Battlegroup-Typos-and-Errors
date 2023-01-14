@@ -1,7 +1,6 @@
 ---
 name: PDF Typos, Formatting, and Clerical Issues
-about: Describe this issuUse this template for reporting typo, formatting, and other
-  clerical issues you find in the Battlegroup release pdf.
+about: Use this template for reporting typo, formatting, and other clerical issues you find in the Battlegroup release pdf.
 title: ''
 labels: ''
 assignees: ''
